@@ -1,7 +1,7 @@
 pyyaml
 numpy<=1.26.4
 opencv-python
-onnxruntime-gpu
+onnxruntime-gpu==1.18.0
 pykalman
 mediapipe
 onnx2torch
